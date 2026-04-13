@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dra. Susana Peña Goya",
+    "especialidad": "Medicina General",
+    "cmp": "34789",
+    "foto": "",
+    "horario": "Lun - Vie: 14:30 - 19:00 | Sáb: 8:00 - 12:00",
+    "descripcion": "Fundadora del Centro Médico Dental Peña. Médico general graduada de la USMP, especialista en Medicina Ocupacional y con más de 20 años de experiencia con pacientes de todas las edades."
+  },
+  {
+    "id": 2,
+    "nombre": "Dra. Veronika Peña Goya",
+    "especialidad": "Odontología",
+    "cmp": "12363 / RNE 1065",
+    "foto": "",
+    "horario": "Lun - Sáb: 8:00 - 19:00 | Dom: 8:00 - 12:00",
+    "descripcion": "Fundadora del Centro Médico Dental Peña. Odontóloga de la USMP especialista en Ortodoncia y Ortopedia Maxilar, Estética Dental y Orofacial. Brinda atención dental integral para adultos y niños con un enfoque amigable por más de 20 años."
+  },
+  {
+    "id": 3,
+    "nombre": "Dr. Carlos Tuesta Del Castillo",
+    "especialidad": "Odontología",
+    "cmp": "13901",
+    "foto": "",
+    "horario": "Lun - Sáb: 8:00 - 19:00 | Dom: 8:00 - 12:00",
+    "descripcion": "Fundador del Centro Médico Dental Peña. Graduado de la Universidad San Luis Gonzaga de Ica con más de 25 años de experiencia. Cirujano dentista especialista en Endodoncia, Rehabilitación Oral y tratamientos integrales con alta precisión y tecnología."
+  },
+  {
+    "id": 4,
+    "nombre": "Lic. José Asparrin Zavala",
+    "especialidad": "Terapia Física",
+    "cmp": "",
+    "foto": "",
+    "horario": "Lun / Jue / Sáb: 9:00 - 13:00",
+    "descripcion": "Fisioterapeuta especialista en rehabilitación musculoesquelética y neurológica. Experto en terapia manual, electroterapia y rehabilitación post-operatoria."
+  },
+  {
+    "id": 5,
+    "nombre": "Lic. Kristel Giuliane Delly Urteaga",
+    "especialidad": "Nutrición",
+    "cmp": "",
+    "foto": "",
+    "horario": "Sáb: 14:00 - 19:00",
+    "descripcion": "Nutricionista colegiada con experiencia en nutrición clínica, deportiva y pediátrica. Diseña planes alimentarios personalizados y realiza análisis de composición corporal. Especialista en nutrición para enfermedades crónicas."
+  },
+  {
+    "id": 6,
+    "nombre": "Lic. María Laura Corrales Martinez",
+    "especialidad": "Psicología",
+    "cmp": "",
+    "foto": "",
+    "horario": "Sáb: 14:00 - 19:00",
+    "descripcion": "Psicóloga clínica con enfoque cognitivo-conductual. Especialista en terapia individual, familiar e infantil. Trata ansiedad, depresión, estrés laboral y trastornos del sueño. Sesiones con total confidencialidad."
+  }
+]
